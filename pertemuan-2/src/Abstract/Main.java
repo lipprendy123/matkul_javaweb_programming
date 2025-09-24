@@ -1,5 +1,7 @@
-import Class.Manager;
-import Class.Staff;
+package Abstract;
+
+import Abstract.Class.Manager;
+import Abstract.Class.Staff;
 
 public class Main {
     public static void main(String[] args) {

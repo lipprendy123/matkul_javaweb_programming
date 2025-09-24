@@ -1,4 +1,4 @@
-package Class;
+package Abstract.Class;
 
 public class Staff extends User {
 

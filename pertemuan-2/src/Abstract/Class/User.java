@@ -1,4 +1,4 @@
-package Class;
+package Abstract.Class;
 
 abstract class User {
     protected String name;
